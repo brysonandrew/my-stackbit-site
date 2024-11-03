@@ -1,5 +1,5 @@
 ---
-title: About
+title: About 2
 type: Page
 sections:
   - type: HeroSection
